@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🎓 Studying 
 - 🦅 Passionate about drone flight
+- 🎓 Studying [] at Aalborg University
 - 💻 Working on the repository "RegressionAnalysis__matplotlibcpp"
 - 🎮 Expertised in DJI Ryze Tello drone flight. Currently doing drone flight with a DJI Mini 2 SE
   
