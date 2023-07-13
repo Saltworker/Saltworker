@@ -2,7 +2,8 @@
 
 - 🎓
 - 🔭 Working on the repository "RegressionAnalysis__matplotlibcpp" https://github.com/Saltworker/RegressionAnalysis_matplotlibcpp
-- ![drone](https://github.com/Saltworker/Saltworker/assets/82200669/ebd9aebb-e0ad-42bb-bee8-858fcf9e6052)
+- ![drone](https://github.com/Saltworker/Saltworker/assets/82200669/d3388b64-eae4-4d3b-be96-fcd6ec4aa470)
+
 
 <!--
 **Saltworker/Saltworker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
