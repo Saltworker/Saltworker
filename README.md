@@ -2,7 +2,7 @@
 
 - 🎓
 - 🔭 Working on the repository "RegressionAnalysis__matplotlibcpp" https://github.com/Saltworker/RegressionAnalysis_matplotlibcpp
-- ![drone](https://github.com/Saltworker/Saltworker/assets/82200669/d3388b64-eae4-4d3b-be96-fcd6ec4aa470)
+- ![drone](https://github.com/Saltworker/Saltworker/assets/82200669/d3388b64-eae4-4d3b-be96-fcd6ec4aa470 =50x50)
 
 
 <!--
