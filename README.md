@@ -3,9 +3,6 @@
 - 🎓
 - ![drone](https://github.com/Saltworker/Saltworker/assets/82200669/d3388b64-eae4-4d3b-be96-fcd6ec4aa470=25x25)
 - 💻 Working on the repository "RegressionAnalysis__matplotlibcpp"
-- 
-
-
 <!--
 **Saltworker/Saltworker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
