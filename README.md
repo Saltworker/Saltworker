@@ -5,7 +5,8 @@
 - 💻 Working on the repository "RegressionAnalysis__matplotlibcpp"
 - 🎮 Expertised in DJI Ryze Tello drone flight. Currently doing drone flight with a DJI Mini 2 SE
   
-![drone](https://github.com/Saltworker/Saltworker/assets/82200669/5b0dee74-839a-4c2f-adca-c5ee40f2d87a)
+![drone (1)](https://github.com/Saltworker/Saltworker/assets/82200669/58cff52e-2446-4fdf-b65d-276f364a7958)
+
 
 <!--
 **Saltworker/Saltworker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
