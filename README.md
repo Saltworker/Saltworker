@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 - 🎓
-- 🔭 Working on the repository "RegressionAnalysis__matplotlibcpp"
 - ![drone](https://github.com/Saltworker/Saltworker/assets/82200669/d3388b64-eae4-4d3b-be96-fcd6ec4aa470=25x25)
+- 💻 Working on the repository "RegressionAnalysis__matplotlibcpp"
+- 
 
 
 <!--
