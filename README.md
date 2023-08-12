@@ -2,7 +2,7 @@
 
 - 🦅 Passionate about drone flight
 - 🎓 Studying Robotics at Aalborg University
-- 💻 Working on the repository "RegressionAnalysis__matplotlibcpp"
+- ✈️ Currently on vacation
   
 ![drone (1)](https://github.com/Saltworker/Saltworker/assets/82200669/58cff52e-2446-4fdf-b65d-276f364a7958)
 
@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+✈️
+💻
