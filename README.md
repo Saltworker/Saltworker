@@ -2,7 +2,7 @@
 
 - 🦅 Passionate about drone flight
 - 🎓 Studying Robotics at Aalborg University
-- 🔭 Looking for a c++ side-project
+- 💻 Working on my library "Zumo32U4Modules"
   
 ![drone (1)](https://github.com/Saltworker/Saltworker/assets/82200669/58cff52e-2446-4fdf-b65d-276f364a7958)
 
